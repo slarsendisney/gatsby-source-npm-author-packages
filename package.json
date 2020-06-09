@@ -20,5 +20,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/slarsendisney/gatsby-source-npm-author-packages.git"
-  },
+  }
 }

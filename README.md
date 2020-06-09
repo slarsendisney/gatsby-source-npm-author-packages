@@ -1,5 +1,5 @@
 # gatsby-source-npm-author-packages
-## Gatsby source plugin for retrieving NPM Packages by a specific Author
+### Gatsby source plugin for retrieving NPM Packages by a specific Author
 
 This plugin utilises "libnpmsearch" to find packages on NPM created by a paticular author.
 
