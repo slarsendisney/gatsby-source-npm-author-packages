@@ -6,7 +6,9 @@
   "license": "MIT",
   "main": "gatsby-node.js",
   "devDependencies": {
-    "gatsby": "^2.13.6",
+    "gatsby": "^2.13.6"
+  },
+  "dependencies": {
     "libnpmsearch": "^3.0.0"
   },
   "keywords": [
